@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -39,3 +40,6 @@ Das Modul Rechnerarchitektur behandelt grundlegende Konzepte und Architekturen v
 * Thore Brehmer - solved tasks 1, 3-11
 * Soni Piyush - solved task 2
 * Nikolas Haase -  solved task 2
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
